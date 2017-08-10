@@ -2,3 +2,4 @@ this is the modified filea
 this is the second line modified
 this is the 3rdline
 thisis 4th line
+ adding 123 into renameddir file
