@@ -1,4 +1,5 @@
 adding a copy right file
 updating copyright file
 this is nxt
-added this new line by Master
+modified line
+this is added by new branch
