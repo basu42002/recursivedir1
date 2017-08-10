@@ -1,3 +1,4 @@
 adding a copy right file
 updating copyright file
 this is nxt
+added this new line by Master
