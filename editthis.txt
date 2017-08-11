@@ -7,3 +7,4 @@ adding this line from local repo
 
 adding this line from remote github
 
+adding local data into edithtis
