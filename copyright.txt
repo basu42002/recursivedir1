@@ -6,3 +6,4 @@ this is added by new branch
 updated by new branch
 modified copyright file
 copy right for comit
+editing copyright file 1234...
