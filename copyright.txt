@@ -9,3 +9,4 @@ copy right for comit
 editing copyright file 1234...
 copyright is updated for tag example
 editing copyright file, to tag remote as well
+copy right updated for tag example to show that tag push also updates commit
